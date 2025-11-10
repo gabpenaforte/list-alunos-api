@@ -1,3 +1,8 @@
+# Lista de Alunos — Back-end
+API de uma aplicação de gerenciamento de alunos, integrada a um front-end em React.
+
+---
+
 ## Configuração do Ambiente
 
 1. Crie um arquivo `config.env` na raiz do projeto.
